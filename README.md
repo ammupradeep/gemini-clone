@@ -2,18 +2,8 @@
 
 A complete beginner friendly React.js app which will clone the Gemini AI interface with the use of Gemini MODEL : gemini-2.0-flash-001 
 
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Used the You tube video : https://youtu.be/EzkWAviyYgg?si=B4q6r2FNO32x3tW_ 
+Which will cover almost all of the beginner React.js concepts.
 
 Reference for the Front end:
 <img width="1510" alt="image" src="https://github.com/user-attachments/assets/3c93f583-7ec5-48d8-811e-ff49318b2638" />
