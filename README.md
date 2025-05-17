@@ -1,3 +1,7 @@
+# Gemini Clone App With React.js
+
+A complete beginner friendly React.js app which will clone the Gemini AI interface with the use of Gemini MODEL : gemini-2.0-flash-001 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +14,6 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+Reference for the Front end:
+<img width="1510" alt="image" src="https://github.com/user-attachments/assets/3c93f583-7ec5-48d8-811e-ff49318b2638" />
